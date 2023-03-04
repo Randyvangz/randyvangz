@@ -2,7 +2,7 @@
 
 <a href="www.linkedin.com/in/randy-gutierrez-4422a423b">
   <img align="left" alt="Jaskirat's LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-
+</a>
 
 <br />
 <br />
