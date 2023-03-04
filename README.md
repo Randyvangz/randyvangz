@@ -1,5 +1,23 @@
 ### Hi there 👋
 
+const aboutMe = {
+   code: [Javascript, HTML, CSS],
+   technologies: {
+      frontEnd: {
+         js: ["React"],
+         css: ["Bootstrap", "Material Design", "Semantic UI"]
+      },
+      backEnd: {
+         js: ["Node", "Express"],
+         misc: ["Bash", "Puppeteer", "Selenium", "Cypress"]
+      },
+      databases: ["mySQL", "SQLServer"],
+      mobile: ["Android"]
+   },
+   currentOccupation: ["last year student, open for job opportunities"],
+   challenge: "I'm working towards being able to run a marathon.",
+};
+
 <!--
 **Randyvangz/randyvangz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
