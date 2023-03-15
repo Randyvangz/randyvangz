@@ -12,12 +12,34 @@ A **WEB DEVELOPMENT** ***Enthusiast*** 🚀.
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" height="250" />
 
-**About Me!**
+Acerca de
+👋 Hola !!! 👋
 
-- 👨🏽‍💻 I’m currently a bootcamp Henry student
-- 🌱 I’m currently exploring JAVASCRIPT with a big interest in JAVASCRIPT applets and Data Structures and Algorithms. 
-- 🤔 My interest lies in front end and back end web development.
-- 💬 Ask me about anything, I love to answer!
+Mi nombre es Randy, soy de Bolivia y mis dos cualidades principales son: 
+✅aprender cada día y compartir 📢 ese conocimiento con todos los que lo necesiten.
+
+Siempre fui un apasionado por la tecnología y hoy en día estoy muy feliz de poder hacer lo que amo.
+
+📚Experiencia📚
+Mi experiencia académica mas destacada fue el año pasado ya que me desempeñe como estudiante
+de desarrollador Full Stack en Henry, en donde aprendí y perfeccione mis bases en 🟡Back-end y 🟡Front-end manejando tecnologías como:
+⚡Javascript
+⚡React 
+⚡Redux
+⚡Nodejs
+⚡Git
+⚡Html
+⚡Css
+
+🔥Mas sobre mi🔥
+Practico Capoeira 🤸‍♂️ y Taekwondo 🥋 para poder mantener una buena salud física.
+me relajo con una guitarra🎸 y cantando un poco para una buena salud mental
+y un poco de danza nunca queda mal 🐛😋
+
+Aca mi link de ◼GitHub◼ donde cada día trato de aportar algo nuevo y codear mucho,
+porque codeando es la manera más eficaz de aprender👨‍💻.
+
+👉GitHub👉 https://github.com/Randyvangz
 - 📫 Email me at [k.randy.gutierrez@gmail.com](mailto:k.randy.gutierrez@gmail.com).
 
 
