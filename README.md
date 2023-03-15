@@ -20,7 +20,7 @@ Siempre fui un apasionado por la tecnología y hoy en día estoy muy feliz de po
 
 📚Experiencia📚 <br />
 Mi experiencia académica mas destacada fue el año pasado ya que me desempeñe como estudiante <br />
-de desarrollador Full Stack en Henry, en donde aprendí y perfeccione mis bases en <br /> 
+de desarrollador Full Stack en Henry, en donde aprendí y perfeccione mis bases en
 🟡Back-end y 🟡Front-end manejando tecnologías como: <br />
 ⚡Javascript <br />
 ⚡React <br />
